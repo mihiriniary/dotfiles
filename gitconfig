@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mihirini_a@outlook.com
+	name = Mihirini Aryaratne
